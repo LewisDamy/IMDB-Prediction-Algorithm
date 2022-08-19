@@ -3,7 +3,7 @@
 ---
 ###UNIFESP Artificial Intelligence Final Project 
 
-The [IEEE Document]() containing the images and more deep explanation 
+The [IEEE Document](https://github.com/LewisDamy/IMDB-Prediction-Algorithm-/blob/main/Luis_Damy_TrabalhoFinal.pdf) containing the images and more deep explanation 
 of the project can be found in inside the repository once it was
 required by the professor to do it as an academic paper best practice.
 
@@ -26,6 +26,7 @@ Python project to predict the rating of a movie based on:
 ## Approach:
 
 ---
+
 1. Data Extraction
    
     It has brought to my attention that the IMDb has the best
@@ -61,7 +62,7 @@ python -m venv venv
 ```makefile
 make install
 ```
-- Running the server:
+- Running the application:
 ```python
 python main.py
 ```
@@ -69,6 +70,7 @@ python main.py
 ## Results:
 
 ---
+
 |Algorithm               | Accuracy | Time Execution | Test Size %   |
 | ---------------------- | -------- | -------------- | ------------- |
 | **KNN**                |  0.7895  |     0.0016s    |      40       |
