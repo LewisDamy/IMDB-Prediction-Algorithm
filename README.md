@@ -1,7 +1,7 @@
 ## IMDb Rating Prediction Algorithm
 
 ---
-###UNIFESP Artificial Intelligence Final Project 
+### UNIFESP Artificial Intelligence Final Project 
 
 The [IEEE Document](https://github.com/LewisDamy/IMDB-Prediction-Algorithm-/blob/main/Luis_Damy_TrabalhoFinal.pdf) containing the images and more deep explanation 
 of the project can be found in inside the repository once it was
