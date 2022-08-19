@@ -1,6 +1,6 @@
 ## IMDb Rating Prediction Algorithm
 
----
+
 ### UNIFESP Artificial Intelligence Final Project 
 
 The [IEEE Document](https://github.com/LewisDamy/IMDB-Prediction-Algorithm-/blob/main/Luis_Damy_TrabalhoFinal.pdf) containing the images and more deep explanation 
@@ -9,23 +9,7 @@ required by the professor to do it as an academic paper best practice.
 
 Note: This document were written in Portuguese. 
 
---- 
-
-Python project to predict the rating of a movie based on:
-- Genre
-- Duration
-- Rating
-- Age Rating
-- Actor Likes
-- Movie Likes
-- Director Likes
-- Cast Total Likes
-- User Reviews
-- Critic Reviews
-
 ## Approach:
-
----
 
 1. Data Extraction
    
@@ -50,9 +34,20 @@ Python project to predict the rating of a movie based on:
     In addition to that, it was also used the [Stats Models Library](https://github.com/statsmodels/statsmodels) to run the [Linear Regression Algorithm](https://en.wikipedia.org/wiki/Linear_regression)
     as well as documenting the results in a .txt file.
 
-## Usage:
 
----
+Python project to predict the rating of a movie based on:
+- Genre
+- Duration
+- Rating
+- Age Rating
+- Actor Likes
+- Movie Likes
+- Director Likes
+- Cast Total Likes
+- User Reviews
+- Critic Reviews
+
+## Usage:
 
 - Creating virtual environment:
 ```python
@@ -68,8 +63,6 @@ python main.py
 ```
 
 ## Results:
-
----
 
 |Algorithm               | Accuracy | Time Execution | Test Size %   |
 | ---------------------- | -------- | -------------- | ------------- |
