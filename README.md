@@ -3,11 +3,9 @@
 
 ### UNIFESP Artificial Intelligence Final Project 
 
-The [IEEE Document](https://github.com/LewisDamy/IMDB-Prediction-Algorithm-/blob/main/Luis_Damy_TrabalhoFinal.pdf) containing the images and more deep explanation 
+The [IEEE Document](https://github.com/LewisDamy/IMDB-Prediction-Algorithm-/blob/main/Luis_Damy_FinalAssignment_Artificial_Intelligence.pdf) containing the images and more deep explanation 
 of the project can be found in inside the repository once it was
 required by the professor to do it as an academic paper best practice.
-
-Note: This document were written in Portuguese. 
 
 ## Approach:
 
